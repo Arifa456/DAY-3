@@ -13,6 +13,8 @@ public class Hello {
       System.out.println(Hello.k);  // static  String organisation = "wipro"
       
       System.out.println(j);
+System.out.println("first changes in git ");
+
 
 	}
 
